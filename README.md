@@ -1,14 +1,13 @@
 # Hi there, I'm Tanisha 👋
 
-Aspiring AIML Engineer | Data Scientist 
-
+AI/ML Researcher | Artificial Intelligence for Scientific Discovery
 ---
 
 ### 👨‍💻 About Me
 
 👋 Hi there, I’m Tanisha - a confused adult in her 20's trying to navigate the corporate jungle. Adulting feels like soup, and I’m definitely the fork. But hey, I make it work.
 
-I graduated with a Master’s degree in Artificial Intelligence and Machine Learning from Christ University, where I spent my time building innovative models, geeking out over neural networks, and occasionally questioning the existence of the universe (thanks, quantum computing). I currently work as a Data Science Faculty at Alliance University. My toolbox includes Python, TensorFlow, Keras, NLP, Computer Vision, and enough SQL to make any data spill its secrets. I also worked as an Asset Management Intern at the Chief Controls Office, HSBC.
+I graduated with a Master’s degree in Artificial Intelligence and Machine Learning from Christ University, where I spent my time building innovative models, geeking out over neural networks, and occasionally questioning the existence of the universe (thanks, quantum computing). I was a Visiting Faculty at Alliance University, conduction. My toolbox includes Python, TensorFlow, Keras, NLP, Computer Vision, and enough SQL to make any data spill its secrets. I also worked as an Asset Management Intern at the Chief Controls Office, HSBC.
 
 Outside of tech, I’m a certified hobby collector: art, dance, music, reading, you name it, I probably dabble in it. I do not play sports, unless you count competitive procrastination as a sport. I'm also learning Irish, because why not? One day, I hope to say "Dia duit, Ireland!" in person.
 
@@ -90,12 +89,12 @@ Here's the link to my LinkedIn Profile: https://www.linkedin.com/in/tanisha-das-
 
 
 - ***Core Competencies:**
-  - 🧠 **Natural Language Processing**: Building models that understand and generate human language.
-  - 👁 **Computer Vision**: Developing systems that interpret and process visual data.
   - 📊 **Machine Learning**: Crafting predictive models and decision systems.
   - 🔍 **Deep Learning**: Designing neural networks for complex tasks.
+  - 🧠 **Natural Language Processing**: Building models that understand and generate human language.
   - 📚 **Large Language Models**: Innovating with state-of-the-art NLP models.
-  - 💻 **Java**: Solid foundation in object-oriented programming.
+  - 👁 **Computer Vision**: Developing systems that interpret and process visual data.
+
 
 ---
 
@@ -103,9 +102,11 @@ Here's the link to my LinkedIn Profile: https://www.linkedin.com/in/tanisha-das-
 
 I’m deeply invested in expanding my knowledge and skills in the following areas:
 
-- Advanced methods in **Reinforcement Learning**.
-- **Quantum Computing** and its applications in AI.
-- Cutting-edge developments in **Large Language Models**.
+- AI for Astronomy and Space Science, exploring how machine learning can advance astronomical discovery.
+
+- Quantum Computing and its applications in artificial intelligence.
+
+- Cutting-edge developments in Large Language Models and generative AI.
 
 ---
 
@@ -113,13 +114,13 @@ I’m deeply invested in expanding my knowledge and skills in the following area
 
 Here are some of the projects I've been working on:
 
-- **[ToDoGenie](https://github.com/Tdas-christ/ToDoGenie)**  
-  Description: ToDoGenie is a task management app that uses text and voice input powered by Flask, SQLite, and Llama-3 70b for enhanced task descriptions.
+- **[SentimentQ](https://github.com/Tanisha6996/SentimentQ)**  
+  Description: SentimentQ integrates quantum computing through Grover's algorithm and classical VADER sentiment analysis to efficiently search for mental health-related tweets and analyze their sentiments, showcasing the power of quantum-inspired algorithms in real-world applications.
 
-- **[Beyond Boundaries](https://github.com/Tdas-christ/Beyond-Boundaries)**  
+- **[Beyond Boundaries](https://github.com/Tanisha6996/Beyond-Boundaries)**  
   Description: Conducted research on various supervised classification algorithms to classify exoplanets as candidates or non-candidates using the NASA Kepler dataset.
 
-- **[NikolAI](https://github.com/Tdas-christ/NikolAI)**
+- **[NikolAI](https://github.com/Tanisha6996/NikolAI)**
   Description: NikolAI is an Emotion-Responsive Music Player that uses computer vision and deep learning to detect facial emotions in real time and recommend songs based on the detected emotion on Raspberry Pi.
 
 ---
@@ -133,13 +134,7 @@ Here are some of the projects I've been working on:
 
 ### 💡 Quote of the Day
 
-_"The only way to do great work is to love what you do." - Steve Jobs_
-
----
-
-### 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Tdas-christ&show_icons=true&hide_border=true&count_private=true)
+_"Somewhere, something incredible is waiting to be known.” - Carl Sagan_
 
 ---
 
