@@ -15,8 +15,6 @@ I’ve guided students in virtual classrooms, led student associations, managed 
 
 Let’s connect - I’m always up for a good conversation or a cool project to collaborate on!
 
-Here's the link to my LinkedIn Profile: https://www.linkedin.com/in/tanisha-das-b61993222/
-
 ---
 
 ### 🔧 Skills
